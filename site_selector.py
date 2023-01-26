@@ -3,7 +3,6 @@ from PIL import Image, ImageTk
 import numpy as np
 import cv2 as cv
 
-# print('is this working')
 
 # CONSTANTS: USER INPUT: 
 
